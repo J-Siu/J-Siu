@@ -49,13 +49,13 @@ simple-api-express|[simple-api-express](//github.com/J-Siu/simple-api-express)|A
 Docker|Blog|GitHub|Description
 ---|---|---|---
 amule|-|[docker_amule](//github.com/J-Siu/docker_amule)|Amule Daemon
-dnsmasq|[Linux IPv6 Router How To](/blog/linux-router/)|[docker_dnsmasq](//github.com/J-Siu/docker_dnsmasq)|Dnsmasq Daemon
-hostapd|[Linux IPv6 Router How To](/blog/linux-router/)|[docker_hostapd](//github.com/J-Siu/docker_hostapd)|Wifi Daemon
-hugo|[Jenkins Blog Automation](/blog/jenkins-blog-automation/)|[docker_hugo](//github.com/J-Siu/docker_hugo)|Hugo generator for CI/CD
+dnsmasq|[Linux IPv6 Router How To](//johnsiu.com/blog/linux-router/)|[docker_dnsmasq](//github.com/J-Siu/docker_dnsmasq)|Dnsmasq Daemon
+hostapd|[Linux IPv6 Router How To](//johnsiu.com/blog/linux-router/)|[docker_hostapd](//github.com/J-Siu/docker_hostapd)|Wifi Daemon
+hugo|[Jenkins Blog Automation](//johnsiu.com/blog/jenkins-blog-automation/)|[docker_hugo](//github.com/J-Siu/docker_hugo)|Hugo generator for CI/CD
 mldonkey|-|[docker_mldonkey](//github.com/J-Siu/docker_mldonkey)|MLdonkey
-mpd|[docker_mpd](/blog/docker-mpd/)|[docker_mpd](//github.com/J-Siu/docker_mpd)|Music Player Daemon
-mpd_lite|[docker_mpd_lite](/blog/docker-mpd-lite/)|[docker_mpd_lite](//github.com/J-Siu/docker_mpd_lite)|Music Player Daemon
-postfix|[Tiny VPS Postfix with Docker](/blog/tiny-vps-postfix-docker/)|[docker_postfix](//github.com/J-Siu/docker_postfix)|Postfix Email Daemon
+mpd|[docker_mpd](//johnsiu.com/blog/docker-mpd/)|[docker_mpd](//github.com/J-Siu/docker_mpd)|Music Player Daemon
+mpd_lite|[docker_mpd_lite](//johnsiu.com/blog/docker-mpd-lite/)|[docker_mpd_lite](//github.com/J-Siu/docker_mpd_lite)|Music Player Daemon
+postfix|[Tiny VPS Postfix with Docker](//johnsiu.com/blog/tiny-vps-postfix-docker/)|[docker_postfix](//github.com/J-Siu/docker_postfix)|Postfix Email Daemon
 tor|-|[docker_tor](//github.com/J-Siu/docker_tor)|Tor Client
 transmission|-|[docker_transmission](//github.com/J-Siu/docker_transmission)|Transmission Client
 unbound|-|[docker_unbound](//github.com/J-Siu/docker_unbound)|Unbound DNS
@@ -64,11 +64,11 @@ unbound|-|[docker_unbound](//github.com/J-Siu/docker_unbound)|Unbound DNS
 
 Project|Blog|GitHub|Description
 ---|---|---|---
-auto_docker|[auto_docker](/blog/auto_docker/)|[auto_docker](//github.com/J-Siu/auto_docker)|Mass Dockerfile auto update script.
+auto_docker|[auto_docker](//johnsiu.com/blog/auto_docker/)|[auto_docker](//github.com/J-Siu/auto_docker)|Mass Dockerfile auto update script.
 docker_compose|-|[docker_compose](//github.com/J-Siu/docker_compose)|Compose and env files for 3rd party docker images.
-go-hugo-lc|[go-hugo-lc](/blog/go-hugo-lc)|[go-hugo-lc](//github.com/J-Siu/go-hugo-lc)|Hugo site link checker written in golang.
-go-png2ico|[go-png2ico](/blog/go-png2ico/)|[go-png2ico](//github.com/J-Siu/go-png2ico)|PNG to ICO in GoLang. ICO use PNG format for storage.
-id3go|[id3go](/blog/id3go/)|[id3go](//github.com/J-Siu/id3go)|ID3v2 Command Line Editor
-itpl|[itpl](/blog/itpl/)|[itpl](//github.com/J-Siu/itpl)|iTunes Playlist command line tool.
-tiny_ca|[Tiny CA - OpenSSL-CA](/blog/tiny-ca/)|[tiny_ca](//github.com/J-Siu/tiny_ca)|Bash script to create root CA for local network.
+go-hugo-lc|[go-hugo-lc](//johnsiu.com/blog/go-hugo-lc)|[go-hugo-lc](//github.com/J-Siu/go-hugo-lc)|Hugo site link checker written in golang.
+go-png2ico|[go-png2ico](//johnsiu.com/blog/go-png2ico/)|[go-png2ico](//github.com/J-Siu/go-png2ico)|PNG to ICO in GoLang. ICO use PNG format for storage.
+id3go|[id3go](//johnsiu.com/blog/id3go/)|[id3go](//github.com/J-Siu/id3go)|ID3v2 Command Line Editor
+itpl|[itpl](//johnsiu.com/blog/itpl/)|[itpl](//github.com/J-Siu/itpl)|iTunes Playlist command line tool.
+tiny_ca|[Tiny CA - OpenSSL-CA](//johnsiu.com/blog/tiny-ca/)|[tiny_ca](//github.com/J-Siu/tiny_ca)|Bash script to create root CA for local network.
 ---
