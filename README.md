@@ -66,7 +66,11 @@ Project|Blog|GitHub|Description
 ---|---|---|---
 auto_docker|[auto_docker](//johnsiu.com/blog/auto_docker/)|[auto_docker](//github.com/J-Siu/auto_docker)|Mass Dockerfile auto update script.
 docker_compose|-|[docker_compose](//github.com/J-Siu/docker_compose)|Compose and env files for 3rd party docker images.
+go-crypto|-|[go-crypto](//github.com/J-Siu/go-crypto)|A crypto command line project
+go-gitapi|-|[go-gitapi](//github.com/J-Siu/go-gitapi)|API library supporting github/gitea
+go-helper|-|[go-helper](//github.com/J-Siu/go-helper)|Helper library for golang project
 go-hugo-lc|[go-hugo-lc](//johnsiu.com/blog/go-hugo-lc)|[go-hugo-lc](//github.com/J-Siu/go-hugo-lc)|Hugo site link checker written in golang.
+go-mygit|-|[go-mygit](//github.com/J-Siu/go-mygit)|Git and repository automation tool support group action.
 go-png2ico|[go-png2ico](//johnsiu.com/blog/go-png2ico/)|[go-png2ico](//github.com/J-Siu/go-png2ico)|PNG to ICO in GoLang. ICO use PNG format for storage.
 id3go|[id3go](//johnsiu.com/blog/id3go/)|[id3go](//github.com/J-Siu/id3go)|ID3v2 Command Line Editor
 itpl|[itpl](//johnsiu.com/blog/itpl/)|[itpl](//github.com/J-Siu/itpl)|iTunes Playlist command line tool.
