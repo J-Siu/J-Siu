@@ -3,18 +3,6 @@
 My interests. My projects.
 <!--more-->
 
-### Table Of Content
-<!-- TOC -->
-
-- [Table Of Content](#table-of-content)
-- [My Interests](#my-interests)
-  - [Technology](#technology)
-  - [Others](#others)
-- [My Projects](#my-projects)
-
-<!-- /TOC -->
-
-
 ### Blog
 
 - [Jsiu.Dev](//JSiu.dev/)
