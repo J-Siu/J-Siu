@@ -15,7 +15,13 @@ My interests. My projects.
 <!-- /TOC -->
 
 
-### Blog: [Jsiu.Dev](//JSiu.dev/)
+### Blog
+
+- [Jsiu.Dev](//JSiu.dev/)
+
+### My Projects
+
+- [J-Siu.github.io](//J-Siu.github.io)
 
 ### My Interests
 
@@ -37,7 +43,3 @@ My interests. My projects.
 - Sci-fi
 
 ---
-
-### My Projects
-
-- [J-Siu.github.io](//J-Siu.github.io)
