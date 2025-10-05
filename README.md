@@ -1,33 +1,16 @@
-# J-Siu  [![Paypal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=HZF49NM9D35SJ&no_recurring=0&currency_code=CAD)
+# J-Siu [![Paypal donate](//www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](//www.paypal.com/donate/?business=HZF49NM9D35SJ&no_recurring=0&currency_code=CAD)
 
-My interests. My projects.
+My interests. My projects. Blogging. Good Food. Sci-fi.
+
 <!--more-->
 
 ### Blog
 
-- [Jsiu.Dev](//JSiu.dev/)
+[Jsiu.Dev](//JSiu.dev/) / [JohnSiu.com](//johnsiu.com/)
+- CI/CD: [k8s](//johnsiu.com/tags/kubernetes/), [Docker](//johnsiu.com/tags/docker/), [Jenkins](//johnsiu.com/tags/jenkins/)
+- OS: [Linux](//johnsiu.com/tags/linux/), [MacOS](//johnsiu.com/tags/macos/)
+- Others: [Hugo](//johnsiu.com/tags/hugo/), [Go](//johnsiu.com/tags/golang/)
 
-### My Projects
+### Projects
 
 - [J-Siu.github.io](//J-Siu.github.io)
-
-### My Interests
-
-#### Technology
-
-- CI/CD
-  - [Kubernetes](/tags/kubernetes/)
-  - [Docker](/tags/docker/)
-  - [Jenkins](/tags/jenkins/)
-- [Alpine Linux](/tags/alpine/)
-- [Angular](/tags/angular/)
-- [Elastic Stack](/tags/elk/)
-- [Hugo](/tags/hugo/)
-
-#### Others
-
-- Blogging
-- Good Food
-- Sci-fi
-
----
